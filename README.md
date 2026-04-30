@@ -1,5 +1,5 @@
 # 改动说明
-[+]rce.py 新增了RCE完整利用  通过/websocket/Shell接口实现
+[+]rce.py 新增了RCE完整利用  通过/websocket/Shell接口实现交互式Shell
 # cve-2026-41940 cPanel/WHM Authentication Bypass - Detection Artifact Generator
 
 cPanel/WHM Authentication Bypass Detection Artifact Generator Tool
